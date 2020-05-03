@@ -1,0 +1,38 @@
+[
+  {
+    "id": 12345,
+    "title": "Beyaz Gemi",
+    "author": "Cengiz Aytmatov",
+    "company": "Nora",
+    "releaseDate": "",
+    "poster": "https://i.dr.com.tr/cache/600x600-0/originals/0001692106001-1.jpg",
+    "language": ""
+  },
+  {
+    "id": 12345,
+    "title": "Şeker Portakalı",
+    "author": "Jose Mauro De Vasconcelos",
+    "company": "Can Çocuk Yayınları",
+    "releaseDate": "",
+    "poster": "https://i.dr.com.tr/cache/600x600-0/originals/0000000064031-1.jpg",
+    "language": "Catalan"
+  },
+  {
+    "id": 12345,
+    "title": "Bir Ömür Nasıl Yaşanır?",
+    "author": "İlber Ortaylı",
+    "company": "Kronik Kitap",
+    "releaseDate": "",
+    "poster": "https://i.dr.com.tr/cache/600x600-0/originals/0001796150001-1.jpg",
+    "language": "English"
+  },
+  {
+    "id": 12345,
+    "title": "Camdaki Kız",
+    "author": "Gülseren Budayıcıoğlu",
+    "company": "Doğan Kitap",
+    "releaseDate": "",
+    "poster": "https://i.dr.com.tr/cache/600x600-0/originals/0001799178001-1.jpg",
+    "language": ""
+  }
+]
