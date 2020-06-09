@@ -5,9 +5,7 @@
   "author": "Moritz Rinke",
   "director": "Tuğsal Moğul",
   "poster": "https://www.dasdas.com.tr/file/2020/02/westend-min.jpg",
-  "language":"",
-  "releaseDate": "27.06.2020",
-  "location": "ZENGİN MUTFAĞI"
+  "language": ""
 },
 {
   "id": 12345,
@@ -15,9 +13,7 @@
   "author": "Vasıf Öngören",
   "director": "Şener Şen",
   "poster": "https://www.dasdas.com.tr/file/2020/01/zengin-mutfagi.jpg",
-  "language": "",
-  "releaseDate": "23.06.2020",
-  "location": "ZENGİN MUTFAĞI"
+  "language": ""
 },
 {
   "id": 12345,
@@ -25,9 +21,7 @@
   "author": "Yasmina Reza",
   "director": "Celal Kadri Kınoğlu",
   "poster": "https://www.dasdas.com.tr/file/2019/11/vahset-tanrisi.jpg",
-  "language": "",
-  "releaseDate": "28.06.2020",
-  "location": "ZENGİN MUTFAĞI"
+  "language": ""
 },
 {
   "id": 12345,
@@ -35,9 +29,7 @@
   "author": "Peter Lund",
   "director": "Ümit Aydoğdu",
   "poster": "https://www.dasdas.com.tr/file/2020/01/ben-varim-min.jpg",
-  "language": "",
-  "releaseDate": "05.07.2020",
-  "location": "ZENGİN MUTFAĞI"
+  "language": ""
 },
 {
   "id": 12345,
@@ -45,9 +37,7 @@
   "author": "Florian Zeller",
   "director": "Tamer Can Erkan",
   "poster": "https://www.dasdas.com.tr/file/2020/03/baba-min.jpg",
-  "language": "",
-  "releaseDate": "27.06.2020",
-  "location": "İstanbul"
+  "language": ""
 },
 {
   "id": 12345,
@@ -55,9 +45,7 @@
   "author": "Michael Weller",
   "director": "Miloš Forman",
   "poster": "http://www.uniqistanbul.com/wp-content/uploads/2020/02/hair-1130x650.jpg",
-  "language": "",
-  "releaseDate": "04.07.2020",
-  "location": "İstanbul"
+  "language": ""
 },
 {
   "id": 12345,
@@ -65,9 +53,7 @@
   "author": "Aziz Nesin",
   "director": "Burak Yerlikaya",
   "poster": "https://www.dasdas.com.tr/file/2019/12/bisey-yap-met-min.jpg",
-  "language": "",
-  "releaseDate": "24.06.2020",
-  "location": "İstanbul"
+  "language": ""
 },
 {
   "id": 12345,
@@ -75,9 +61,7 @@
   "author": "Firuze Engin",
   "director": "Firuze Engin",
   "poster": "https://www.dasdas.com.tr/file/2019/11/gule-gule-diva.jpg",
-  "language": "",
-  "releaseDate": "27.06.2020",
-  "location": "İstanbul"
+  "language": ""
 },
 {
   "id": 12345,
@@ -85,9 +69,7 @@
   "author": "Tom Basden",
   "director": " Mert Fırat",
   "poster": "https://www.dasdas.com.tr/file/2019/11/timsah.jpg",
-  "language": "",
-  "releaseDate": "24.06.2020",
-  "location": ""
+  "language": ""
 },
 {
   "id": 12345,
@@ -95,8 +77,7 @@
   "author": "Tom Basden",
   "director": " Serdar Biliş",
   "poster": "https://www.dasdas.com.tr/file/2019/11/joseph-k.jpg",
-  "language": "",
-  "releaseDate": "06.07.2020",
-  "location": "İstanbul"
+  "language": ""
 }
+
 ]
