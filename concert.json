@@ -3,61 +3,81 @@
     "id": 12345,
     "title": "DIIV ",
     "poster": "https://www.zorlupsm.com/uploads/event/imageNew/1920x600/1920x600-1728.jpg?w=1920&amp;h=600&amp;crop-to-fit",
-    "language": ""
+    "language": "",
+    "releaseDate": "04.07.2020",
+    "location": "İstanbul"
   },
   {
     "id": 12345,
     "title": "İlkay Akkaya ",
     "poster": "https://cdn.firsatbufirsat.com/files/images/deal-image/image/1080x720/377/3772425_e182.jpg?r=1",
-    "language": ""
+    "language": "",
+    "releaseDate": "11.08.2020",
+    "location": "İstanbul"
   },
   {
     "id": 12345,
     "title": "Roberto Gatto & Jülide Özçelik ",
     "poster": "https://image.istanbul.net.tr/uploads/2020/04/event/roberto-gatto-julide-ozcelik.jpg",
-    "language": ""
+    "language": "",
+    "releaseDate": "06.07.2020",
+    "location": "İstanbul"
   },
   {
     "id": 12345,
     "title": "Matthew Halsall & The Gondwana Orch ",
     "poster": "https://image.istanbul.net.tr/uploads/2020/04/event/matthew-halsall-the-gondwana-orch.jpg",
-    "language": ""
+    "language": "",
+    "releaseDate": "07.07.2020",
+    "location": "İstanbul"
   },
   {
     "id": 12345,
     "title": "Ezhel ",
     "poster": "https://image.istanbul.net.tr/uploads/2020/02/event/ezhel.jpg",
-    "language": ""
+    "language": "",
+    "releaseDate": "10.10.2020",
+    "location": "İstanbul"
   },
   {
     "id": 12345,
     "title": "Berlin Symphony Chamber Orchestra ",
     "poster": "https://image.istanbul.net.tr/uploads/2020/02/event/berlin-symphony-chamber-orchestra.jpg",
-    "language": ""
+    "language": "",
+    "releaseDate": "04.09.2020",
+    "location": "İstanbul"
   },
   {
     "id": 12345,
     "title": "Feridun Düzağaç - TNK - Nilipek ",
     "poster": "https://image.istanbul.net.tr/uploads/2020/06/event/feridun-duzagac-tnk-nilipek.jpg",
-    "language": ""
+    "language": "",
+    "releaseDate": "10.09.2020",
+    "location": "İstanbul"
   },
   {
     "id": 12345,
     "title": "Karsu ",
     "poster": "https://image.istanbul.net.tr/uploads/2020/02/event/karsu.jpg",
-    "language": ""
+    "language": "",
+    "releaseDate": "11.09.2020",
+    "location": "İstanbul"
   },
   {
     "id": 12345,
     "title": "Deafheaven ",
     "poster": "https://www.zorlupsm.com/uploads/event/imageNew/1920x600/1920x600-1714.jpg?w=1920&amp;h=600&amp;crop-to-fit",
-    "language": ""
+    "language": "",
+    "releaseDate": "01.07.2020",
+    "location": "İstanbul"
   },
   {
     "id": 12345,
     "title": "Tiamat ",
     "poster": "https://www.zorlupsm.com/uploads/event/imageNew/1920x600/psm-web-1920-600-1666.jpg?w=1920&amp;h=600&amp;crop-to-fit",
-    "language": ""
+    "language": "",
+    "releaseDate": "27.09.2020",
+    "location": "İstanbul"
   }
 
 ]
